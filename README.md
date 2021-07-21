@@ -8,3 +8,5 @@ No curso foi desenvolvida uma pequena aplicação para criar uma lista de tarefa
 * Manipulação do Local Storage para guardar dados.
 * utilização de datas no JavaScript.
 * Utilização do sistema de módulos do JavaScript para proteger os arquivos.
+
+Link: https://brsilvacardoso.github.io/JS-na-Web-Armazenando-dados-no-navegador/
